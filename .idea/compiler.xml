@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="article-common" />
         <module name="article-server" />
+        <module name="config-server" />
         <module name="eureka" />
         <module name="gateway-server" />
-        <module name="newconfig" />
         <module name="user" />
       </profile>
     </annotationProcessing>
@@ -21,6 +21,7 @@
       <module name="client" target="1.8" />
       <module name="common" target="1.8" />
       <module name="config" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="eureka" target="1.8" />
       <module name="gateway-server" target="1.8" />
       <module name="geteway" target="1.8" />
