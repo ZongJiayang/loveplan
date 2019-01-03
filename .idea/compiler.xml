@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="article-common" />
+        <module name="article-server" />
+        <module name="eureka" />
+        <module name="gateway-server" />
+        <module name="newconfig" />
+        <module name="user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="article" target="1.8" />
+      <module name="article-common" target="1.8" />
+      <module name="article-server" target="1.8" />
+      <module name="client" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="gateway-server" target="1.8" />
+      <module name="geteway" target="1.8" />
+      <module name="hystrix" target="1.8" />
+      <module name="newconfig" target="1.8" />
+      <module name="news" target="1.8" />
+      <module name="newsconfig" target="1.8" />
+      <module name="register" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/article/article-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/article/article-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/geteway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/geteway/gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register/newconfig" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

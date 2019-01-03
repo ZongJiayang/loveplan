@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/article/article.iml" filepath="$PROJECT_DIR$/client/article/article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/article/article-common/article-common.iml" filepath="$PROJECT_DIR$/client/article/article-common/article-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/article/article-server/article-server.iml" filepath="$PROJECT_DIR$/client/article/article-server/article-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/eureka/eureka.iml" filepath="$PROJECT_DIR$/register/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geteway/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/geteway/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geteway/geteway.iml" filepath="$PROJECT_DIR$/geteway/geteway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/newconfig/newconfig.iml" filepath="$PROJECT_DIR$/register/newconfig/newconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news.iml" filepath="$PROJECT_DIR$/news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/register.iml" filepath="$PROJECT_DIR$/register/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/user/user.iml" filepath="$PROJECT_DIR$/client/user/user.iml" />
+    </modules>
+  </component>
+</project>
